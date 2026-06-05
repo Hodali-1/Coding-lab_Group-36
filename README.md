@@ -1,4 +1,4 @@
-# Coding-lab_GroupXX — Hospital Data Management System
+# Coding-lab_Group 36 — Hospital Data Management System
 
 ## Group Members
 | Member | Role | Responsibilities |
@@ -19,7 +19,7 @@ This project simulates a hospital data management system that:
 
 ## Repository Structure
 ```
-Coding-lab_GroupXX/
+Coding-lab_Group 36/
 ├── hospital_system.py     # Data engine — generates live logs
 ├── hospital_admin.sh      # Setup & security (Hodali)
 ├── hospital_archive.sh    # Log archiving (Hodali)
